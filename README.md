@@ -25,3 +25,6 @@
 
 后面会继续更新其他数据库日志、主从复制 两章笔记。
 
+## 因为gitee可能无法使用这里贴下github地址
+
+https://github.com/lliuql/learn_db
